@@ -1,3 +1,7 @@
+# WebGL
+
+## Beginner
+
 1. What is WebGL
 1. Setup
 1. Create a Renderer
@@ -13,6 +17,9 @@
 1. Create a Torus for Each Wheel
 1. Create a Cylinder for the Arm
 1. Add Shoulder, Elbow, Forearm, Wrist, Fingers
+
+## Advanced
+
 1. Calculate Angle Between Robot And Ball
 1. Calculate Angle Between Tangent and Line To Ball
 1. Calculate Robot Stopping Point
