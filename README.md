@@ -1,5 +1,12 @@
 # WebGL
 
+## Goal
+
+The goal of this course will be to make [this](http://matthewhuntington.com/webGLRobot/) with code similar to [this](https://github.com/mahuntington/webgl-robot).  It breaks down into two sections
+
+1. Beginner (display the robot): roughly 15 videos
+1. Advanced (animate the robot): roughly 15 videos
+
 ## Beginner
 
 1. What is WebGL
