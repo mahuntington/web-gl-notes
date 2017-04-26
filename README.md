@@ -17,6 +17,9 @@ The goal of this course will be to make [this](http://matthewhuntington.com/webG
 1. Create a Spot Light
 1. Create a Phong Material
 1. Create a Circle for the Ground
+1. Create a Cone for the Hill
+1. Create a Ring for the Track
+1. Create Text
 1. Create a Sphere for the Ball
 1. Create a Texture Map for the Ball
 1. Create a Cube
